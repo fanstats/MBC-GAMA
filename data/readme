@@ -1,1 +1,7 @@
+The folder contains the following data files:
+1. gama-galaxies-7187.txt: data for 7,187 galaxies from the Galaxy And Mass Assembly (GAMA) survey, with redshifts in the range 0.05 < 𝑧 < 0.08.
+2. gama-galaxies-enviro-7187.txt: environmental measurements associated with the above galaxy sample.
 
+Data source:
+Baldry, I. K., et al. (2018). Galaxy And Mass Assembly: the G02 field, Herschel–ATLAS target selection and data release 3. 
+Monthly Notices of the Royal Astronomical Society, 474(3), 3875–3888. https://doi.org/10.1093/mnras/stx3042

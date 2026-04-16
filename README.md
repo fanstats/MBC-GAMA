@@ -1,2 +1,34 @@
-# MtFAD-GAMA
-Clustering and Characterization of the Local-Universe Galaxy Data from GAMA Survey.
+Multi-layered model-based characterisation of the local-Universe galaxy
+data from the GAMA survey
+================
+
+This project uses a $t$-mixture of factor analyzers and a
+model-estimated overlap-based syncytial clustering approach to cluster
+and characterize galaxy data from the Galaxy And Mass Assembly (GAMA)
+survey. Each galaxy is represented by five intrinsic variables—stellar
+mass, specific star formation rate, $u−r$ color, half-light radius, and
+S'ersic index—and one environmental variable, the optimal density, which
+captures the influence of the local environment.
+
+The following figures present the estimated clusters from the
+model-based clustering (MBC) analysis. The 3D star-coordinate plot
+illustrates the separation of the two major galaxy populations, the red
+and blue sequences, and the distribution plots reveal distinct patterns
+in the variables across the identified galaxy clusters.
+
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 24px; margin: 20px 0;">
+
+<div style="display: flex; flex-direction: column; gap: 16px;">
+
+    <img src="figures/gama-starcoords3d-1.png" style="width: 360px; height: auto; display: block;" />
+    <img src="figures/gama-starcoords3d-2.png" style="width: 360px; height: auto; display: block;" />
+
+</div>
+
+<div>
+
+    <img src="figures/gama-envopt-mtfad-q-initial-dist.png" style="width: 420px; height: auto; display: block;" />
+
+</div>
+
+</div>

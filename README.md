@@ -10,7 +10,7 @@ mass, specific star formation rate, $u−r$ color, half-light radius, and
 S'ersic index—and one environmental variable, the optimal density, which
 captures the influence of the local environment.
 
-The following figures present the estimated and merged clusters from the
+The following figures present the simple and merged clusters from the
 model-based clustering (MBC) analysis. The 3D star-coordinate plot
 illustrates the separation of the two major galaxy populations, the red
 and blue sequences, and the distribution plots reveal distinct patterns

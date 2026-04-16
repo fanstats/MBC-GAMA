@@ -16,19 +16,8 @@ illustrates the separation of the two major galaxy populations, the red
 and blue sequences, and the distribution plots reveal distinct patterns
 in the variables across the identified galaxy clusters.
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 24px; margin: 20px 0;">
-
-<div style="display: flex; flex-direction: column; gap: 16px;">
-
-    <img src="figures/gama-starcoords3d-1.png" style="width: 360px; height: auto; display: block;" />
-    <img src="figures/gama-starcoords3d-2.png" style="width: 360px; height: auto; display: block;" />
-
-</div>
-
-<div>
-
-    <img src="figures/gama-envopt-mtfad-q-initial-dist.png" style="width: 420px; height: auto; display: block;" />
-
-</div>
-
-</div>
+<p float="left">
+<img src="figures/gama-starcoords3d-1.png" width="400" height = "200" />
+<img src="figures/gama-starcoords3d-2.png" width="400" height = "200" />
+<img src="figures/gama-envopt-mtfad-q-initial-dist.png" width="400" height = "400"/>
+</p>

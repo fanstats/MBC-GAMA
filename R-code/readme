@@ -1,6 +1,6 @@
 This folder contains code for the following components:
-1. Clustering and characterization of the galaxy data, as illustrated in Section 3.2 (MBC-GAMAData.R);
-2. The MtFAD-q algorithm, described in Sections 2.1 and 2.2 (mtfad.R);
-3. A 3D visualization function for simple clusters, discussed in Section 3.2.1 (starcoord3d.R);
-4. A pairwise overlap map function, described in Section 3.2.3 (utilis.R);
-5. A GDT function for composite clusters, described in Section 3.2.3 (Gtrans-sync.R).
+1. Clustering and characterization of the galaxy data using MtFAD and MOBSynC (MBC-GAMAData.R);
+2. The MtFAD algorithm for the t-mixture of group-specific factor analysers (mtfad.R);
+3. A 3D visualization function for simple clusters (starcoord3d.R);
+4. A pairwise overlap map function (utilis.R);
+5. A GDT function for Gaussianizing the composite clusters (Gtrans-sync.R).

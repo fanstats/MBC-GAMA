@@ -3,5 +3,6 @@ The folder contains the following data files:
 2. gama-galaxies-enviro-7187.txt: environmental measurements associated with the above galaxy sample.
 
 Data source:
-Baldry, I. K., et al. (2018). Galaxy And Mass Assembly: the G02 field, Herschel–ATLAS target selection and data release 3. 
-Monthly Notices of the Royal Astronomical Society, 474(3), 3875–3888. https://doi.org/10.1093/mnras/stx3042
+The galaxy data consist of local-Universe galaxies from GAMA DR4 at https://gama-survey.org/dr4/data/cat. 
+The galaxy features were obtained from the following GAMA DR4 tables: MagPhysv06, StellarMassesPanChromv24 (for rest-frame $u-r$ colour), and BDModelsv05. 
+The environmental data consist of three local galaxy environment measures from the GAMA DR4 file server, EnvironmentMeasuresv06, https://gama-survey.org/dr4/data/cat/EnvironmentMeasures/v06/.
